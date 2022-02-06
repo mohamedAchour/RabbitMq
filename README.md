@@ -16,4 +16,4 @@ In this project, we'll go through all steps to tun RabbitMq locally using docker
 - Terminal 1: run RabbitMq container `docker-compose up`.
 - Terminal 2: run the prodcuer.py script.
 - Terminal 3: run the consumer.py script.
-- If you did everything right, you'll get something like this: ![successful manipulation result](img1.png)
+- If you did everything right, you'll get something like this: ![successful manipulation result](repo_imgs/img1.png)
